@@ -1,9 +1,8 @@
+# 💻 Gaurav Sonawane | Software Developer & Tech Enthusiast
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-
-
-# 💻 Gaurav Sonawane | Software Developer & Tech Enthusiast
 
 Hi there! 👋 I'm **Gaurav Sonawane**, a passionate Software Developer dedicated to crafting innovative and scalable solutions. With expertise in Python, Machine Learning, and Full-Stack Development, I aim to build impactful applications that solve real-world problems. 🚀
 
