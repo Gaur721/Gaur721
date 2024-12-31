@@ -46,30 +46,17 @@ Hi there! 👋 I'm **Gaurav Sonawane**, a passionate Software Developer dedicate
 
 ---
 
-## 📂 Top Projects
-
-- [🌐 Django URL Minimizer](https://github.com/gaur721/django-url-minimizer):  
-  A scalable URL shortening service with built-in analytics, implemented using Django, Redis, Celery, Docker, and MongoDB.
-
-- [🌍 Network Topology Discovery Tool](https://github.com/gaur721/network-topology-tool):  
-  A real-time topology discovery tool using Graph Neural Networks (GNNs) for device identification, anomaly detection, and topology mapping in SCADA systems. Features include visualization with React.js and D3.js.
-
-- [📈 Branding Page](https://github.com/gaur721/branding-page):  
-  A dynamic, responsive branding application developed with React.js, showcasing RESTful API integration and interactive elements.
-
-- [🎥 Virtual Background Feature](https://github.com/gaur721/virtual-background):  
-  A Node.js-powered feature for video conferencing applications using OpenCV and TensorFlow.js.
-
-- [🔍 Obscenity Blocker Solution](https://github.com/gaur721/obscenity-blocker):  
-  An ML-powered solution for detecting and blocking obscene content using deep learning and NLP.
-
----
-
 ## 📊 GitHub Contributions
 
 ![GitHub Contributions](https://ghchart.rshah.org/Gaur721)
 
 ---
+
+## 📊 GitHub Stats
+
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaur721&show_icons=true&hide=issues&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaur721&layout=compact&theme=radical)
+
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaur721&layout=compact&theme=radical)
