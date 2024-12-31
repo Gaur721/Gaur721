@@ -35,7 +35,6 @@
 ---
 
 <h2 align="center">⚡ Technologies & Tools</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
