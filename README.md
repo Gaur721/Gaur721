@@ -76,9 +76,7 @@ Hi there! 👋 I'm **Gaurav Sonawane**, a passionate Software Developer dedicate
 
 ---
 
-## 📊 GitHub Stats
 
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaur721&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaur721&layout=compact&theme=radical)
 
 ---
