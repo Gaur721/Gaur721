@@ -1,4 +1,6 @@
-### Hi there , Gaurav Here...!
+# 💻 Gaurav Sonawane | Software Developer & Tech Enthusiast
+
+Hi there! 👋 I'm **Gaurav Sonawane**, a passionate Software Developer dedicated to crafting innovative and scalable solutions. With expertise in Python, Machine Learning, and Full-Stack Development, I aim to build impactful applications that solve real-world problems. 🚀
 
 - 🔭 I’m currently working on innovative projects at the intersection of AI and sustainable technology, aiming to create positive environmental impact.
 - 🌱 I’m currently learning advanced machine learning techniques and diving into ethical considerations in AI development. 
@@ -6,13 +8,6 @@
 - 🤔 I’m looking for help with optimizing algorithms for large-scale data processing and exploring efficient cloud computing solutions.
 - 💬 Ask me about my experience in deploying machine learning models in production and optimizing for performance.
 - I have worked as an machine learning engineer intern at Deloitte for 2 months. 
-- 📫 How to reach me: Feel free to connect via email at gauravtemp123@gmail.com. or find me on LinkedIn https://www.linkedin.com/in/gaurav-sonawane-008342253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app. 
-- 😄 Pronouns: He/Him ...
-- ⚡ Fun fact: I once hiked to the base camp of Mount Everest, fulfilling a lifelong adventure dream!
-
-# 💻 Gaurav Sonawane | Software Developer & Tech Enthusiast
-
-Hi there! 👋 I'm **Gaurav Sonawane**, a passionate Software Developer dedicated to crafting innovative and scalable solutions. With expertise in Python, Machine Learning, and Full-Stack Development, I aim to build impactful applications that solve real-world problems. 🚀
 
 ---
 
@@ -85,7 +80,7 @@ Hi there! 👋 I'm **Gaurav Sonawane**, a passionate Software Developer dedicate
 
 - **LinkedIn**: [linkedin.com/in/gaurav-sonawane-008342253](https://www.linkedin.com/in/gaurav-sonawane-008342253)  
 - **GitHub**: [github.com/Gaur721](https://github.com/Gaur721)  
-- **Email**: gaurav.sonawane@example.com (replace with your actual email)
+- **Email**: gauravtemp123@gmail.com
 
 ---
 
